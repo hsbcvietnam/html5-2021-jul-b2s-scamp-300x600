@@ -1,8 +1,7 @@
 # hsbc-template-edm
 
 Link view
-https://mass-template-edm.herokuapp.com/source/index_vn.html
-https://mass-template-edm.herokuapp.com/source/index_en.html
+https://hsbcvietnam.github.io/html5-2021-jul-b2s-scamp-300x600/source/index.html
 
 Link download
-https://mass-template-edm.herokuapp.com/download.php
+https://hsbcvietnam.github.io/html5-2021-jul-b2s-scamp-300x600/download.php
